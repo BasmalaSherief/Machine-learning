@@ -1,6 +1,3 @@
-###  KNN - Wine README
-
-```markdown
 # KNN Classifier - Wine Dataset
 
 This project uses KNN to classify wine varieties based on chemical analysis features.

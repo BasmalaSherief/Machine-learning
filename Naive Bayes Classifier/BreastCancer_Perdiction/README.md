@@ -1,6 +1,3 @@
-###  Naive Bayes - Breast Cancer README
-
-```markdown
 # Breast Cancer Recurrence Prediction
 
 This project uses a Categorical Naive Bayes classifier to predict recurrence events in breast cancer patients.

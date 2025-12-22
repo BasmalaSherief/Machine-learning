@@ -1,6 +1,3 @@
-###  KNN - MNIST README
-
-```markdown
 # KNN Classifier - MNIST Digits
 
 This project applies the K-Nearest Neighbors (KNN) algorithm to recognize handwritten digits from the MNIST dataset.

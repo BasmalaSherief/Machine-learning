@@ -1,6 +1,3 @@
-### Neural Network Regression README
-
-```markdown
 # Turbine Health Estimation
 
 This project uses Neural Network Regression to predict the health decay coefficients of Gas Turbine components (Compressor and Turbine) based on sensor measurements.

@@ -1,6 +1,3 @@
-### Naive Bayes - Weather README
-
-```markdown
 # Weather Prediction (Play/No Play)
 
 A simple classification project predicting whether to play sports based on weather conditions using Naive Bayes.
