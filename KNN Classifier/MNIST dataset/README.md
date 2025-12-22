@@ -18,3 +18,4 @@ This project applies the K-Nearest Neighbors (KNN) algorithm to recognize handwr
 Run the test script:
 ```bash
 python DigitsTest.py
+```

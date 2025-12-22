@@ -18,3 +18,4 @@ A simple classification project predicting whether to play sports based on weath
 Run the prediction script:
 ```bash
 python WeatherPrediction.py
+```

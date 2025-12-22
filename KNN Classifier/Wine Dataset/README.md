@@ -18,3 +18,4 @@ This project uses KNN to classify wine varieties based on chemical analysis feat
 Run the test script:
 ```bash
 python WineTest.py
+```
