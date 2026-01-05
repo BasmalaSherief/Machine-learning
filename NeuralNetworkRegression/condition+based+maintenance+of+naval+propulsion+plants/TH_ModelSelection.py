@@ -5,7 +5,7 @@ import tensorflow.keras as tf_keras
 import matplotlib.pyplot as plt
 
 # read the data
-data = read_csv('/home/basmala/Windows-Educational/Robotics Master degree/ML/Assignments/NeuralNetworkRegression/condition+based+maintenance+of+naval+propulsion+plants/UCI CBM Dataset/data.txt', sep='\s+').values
+data = read_csv('/home/basmala/Windows-Educational/Robotics Master/ML/Assignments/NeuralNetworkRegression/condition+based+maintenance+of+naval+propulsion+plants/UCI CBM Dataset/data.txt', sep='\s+').values
 
 # split inputs (16) and targets (2)
 X = data[:, 0:16]

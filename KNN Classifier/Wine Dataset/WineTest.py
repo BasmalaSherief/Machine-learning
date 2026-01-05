@@ -26,7 +26,7 @@ X_train_norm = scaler.transform(X_train)
 X_test_norm = scaler.transform(X_test)
 
 
-k_value = 10
+k_value = 5
 model = Knn(k=k_value)
 
 # Fit the model
